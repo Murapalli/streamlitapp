@@ -1,7 +1,6 @@
 streamlit
 streamlit_shadcn_ui
 plotly.express
-plotly.figure_factory
 pandas
 numpy
 os
