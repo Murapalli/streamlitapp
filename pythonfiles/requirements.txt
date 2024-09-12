@@ -3,5 +3,4 @@ streamlit_shadcn_ui
 plotly.express
 pandas
 numpy
-os
 warnings
